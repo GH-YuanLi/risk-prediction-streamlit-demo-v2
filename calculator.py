@@ -338,8 +338,8 @@ def main(authenticator):
         # for _ in stqdm(range(20), st_container=st.sidebar):
         #     sleep(0.5)
 
-        intro_lst = ['中国专家共识','NCCN指南','ACCP指南','Fleischner指南','亚洲共识指南','肺癌风险预测模型']
-        bar_lst = [0.5, 1.5, 1, 0.5, 2, 2]
+        intro_lst = ['2024 中国专家共识','2023 NCCN指南','2018 ACCP指南','2017 Fleischner指南','2016 亚洲共识指南','Brock 预测模型','自研肺癌风险预测模型']
+        bar_lst = [0.5, 1.5, 1, 0.5, 2, 3, 2]
 
         # pbar = stqdm(range(len(intro_lst)))
         # for x in pbar:
