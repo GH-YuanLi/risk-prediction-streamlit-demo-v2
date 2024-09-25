@@ -118,7 +118,7 @@ def main(authenticator):
                         background-image: url("data:image/logo2;base64,{file_path}");
                         background-repeat: no-repeat;
                         background-size: 80%;
-                        padding-top: 110px;
+                        padding-top: 100px;
                         background-position: top center;
                         }}
                 </style>
@@ -378,4 +378,4 @@ def main(authenticator):
 
 
 if __name__ == "__main__":
-    main(authenticator)
+    main(authenticator=authenticator)
