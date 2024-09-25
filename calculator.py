@@ -117,8 +117,8 @@ def main(authenticator):
                     [data-testid="stSidebar"] {{
                         background-image: url("data:image/logo2;base64,{file_path}");
                         background-repeat: no-repeat;
-                        background-size: 80%;
-                        padding-top: 90px;
+                        background-size: 70%;
+                        padding-top: 85px;
                         background-position: top center;
                         }}
                 </style>
