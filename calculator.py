@@ -118,7 +118,7 @@ def main(authenticator):
                         background-image: url("data:image/logo2;base64,{file_path}");
                         background-repeat: no-repeat;
                         background-size: 80%;
-                        padding-top: 100px;
+                        padding-top: 90px;
                         background-position: top center;
                         }}
                 </style>
