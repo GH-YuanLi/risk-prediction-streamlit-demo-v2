@@ -193,7 +193,7 @@ def main(authenticator):
                     
             # input 2
             # inputs['age'] = st.number_input(label="投保人年龄", min_value=1, max_value=150, value = None)
-            inputs['age'] = st.select_slider('投保人年龄',options=range(18, 81))
+            inputs['age'] = st.select_slider('投保人年龄',options=range(14, 87))
             
 
             # state.inputs = state.inputs or set()
